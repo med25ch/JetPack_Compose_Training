@@ -14,3 +14,5 @@ How to add animations
 
 How to style and theme an app
 
+
+![](https://github.com/med25ch/JetPack_OnboardingScreen/blob/master/gif/onboardingscreen_gif.gif)
